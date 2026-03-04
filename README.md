@@ -199,13 +199,13 @@
 * 5.1 **EVALUACIÓN DE DESEMPENO**
 * 5.1 &nbsp; &nbsp; &nbsp;  **Introduccion**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Como se evalua el desempeno de un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
-* 5.2 &nbsp; &nbsp; &nbsp;  ** Metricas de desempeno**
+* 5.2 &nbsp; &nbsp; &nbsp;  **Metricas de desempeno**
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 
 ### Clase 18 Ma. 12-May-2026:
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
-* 5.3 &nbsp; &nbsp; &nbsp;  ** Estimacion de metricas**
+* 5.3 &nbsp; &nbsp; &nbsp;  **Estimacion de metricas**
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estimación de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
 * 5.4 &nbsp; &nbsp; &nbsp;  **Aspectos practicos**
@@ -217,4 +217,4 @@
 ---
 
 
-Updated on 04-Mar-2026 at 13:02 by Domingo Mery
+Updated on 04-Mar-2026 at 13:04 by Domingo Mery
