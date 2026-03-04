@@ -1,7 +1,6 @@
 
 # Capitulo 01: Introduccion
 ### 1.1 Que es reconocimiento de patrones?:
-* **INTRODUCCION** 
 * > **Que es reconocimiento de patrones?** 
 * >> PPT: Ejercicio visión humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * >> PPT: Ejemplo practico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
@@ -17,4 +16,4 @@
 ---
 
 
-Updated on 04-Mar-2026 at 13:04 by Domingo Mery
+Updated on 04-Mar-2026 at 13:05 by Domingo Mery

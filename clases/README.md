@@ -16,7 +16,7 @@
 * 0.1 &nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Book]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
 
 ### Clase 02 Ju. 12-Mar-2026:
-* 1.1 **INTRODUCCION**
+* 1.0 **INTRODUCCION**
 * 1.1 &nbsp; &nbsp; &nbsp;  **Que es reconocimiento de patrones?**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejercicio visión humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejemplo practico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
@@ -217,4 +217,4 @@
 ---
 
 
-Updated on 04-Mar-2026 at 13:04 by Domingo Mery
+Updated on 04-Mar-2026 at 13:05 by Domingo Mery
