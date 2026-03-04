@@ -11,8 +11,7 @@
 * > Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
 * > Libro: Computer Vision for X-ray Testing (Mery, 2015) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2015_ComputerVisionXrays_DMery.pdf)
 * > Libro: Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Book]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
-* > Video: Clase de presentación al curso (versión 2021) [[YouTube]](https://youtu.be/fN4fOoWzdWs)
 ---
 
 
-Updated on 17-Jun-2025 at 13:20 by Domingo Mery
+Updated on 04-Mar-2026 at 13:00 by Domingo Mery
