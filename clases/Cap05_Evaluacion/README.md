@@ -1,7 +1,7 @@
 
 # Capitulo 05: Evaluacion de Desempeno
 ### 5.1 Introduccion:
-* > **Introduccion** 
+* > **Introducción** 
 * >> Como se evalua el desempeno de un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 ### 5.2 Metricas de desempeno:
 ### 5.3 Estimacion de las metricas:
@@ -9,4 +9,4 @@
 ---
 
 
-Updated on 04-Mar-2026 at 13:08 by Domingo Mery
+Updated on 04-Mar-2026 at 14:58 by Domingo Mery
