@@ -45,7 +45,7 @@
 * 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos con mascaras (convolucion con kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 
 ### Clase 04 Ju. 19-Mar-2026:
-* 2.1 **EXTRACCION DE CARACTERISTICAS**
+* 2.0 **EXTRACCION DE CARACTERISTICAS**
 * 2.1 &nbsp; &nbsp; &nbsp;  **Introduccion**
 * 2.2 &nbsp; &nbsp; &nbsp;  **Segmentacion de imágenes**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Segmentacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/IMG08_Segmentation.pptx)
@@ -117,7 +117,7 @@
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 
 ### Clase 10 Ma. 14-Apr-2026:
-* 3.1 **SELECCIÓN Y TRANSFORMACION DE CARACTERISTICAS**
+* 3.0 **SELECCIÓN Y TRANSFORMACION DE CARACTERISTICAS**
 * 3.1 &nbsp; &nbsp; &nbsp;  **Introduccion**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Que es selección y transformacion de caracteristicas? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Apuntes sobre la Selección de Características [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
@@ -146,7 +146,7 @@
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 
 ### Clase 12 Ma. 21-Apr-2026:
-* 4.1 **CLASIFICACION**
+* 4.0 **CLASIFICACION**
 * 4.1 &nbsp; &nbsp; &nbsp;  **Introduccion**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Que es un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp;  **Clasificadores basicos**
@@ -196,7 +196,7 @@
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 
 ### Clase 17 Ju. 07-May-2026:
-* 5.1 **EVALUACIÓN DE DESEMPENO**
+* 5.0 **EVALUACIÓN DE DESEMPENO**
 * 5.1 &nbsp; &nbsp; &nbsp;  **Introduccion**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Como se evalua el desempeno de un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.2 &nbsp; &nbsp; &nbsp;  **Metricas de desempeno**
@@ -217,4 +217,4 @@
 ---
 
 
-Updated on 04-Mar-2026 at 13:05 by Domingo Mery
+Updated on 04-Mar-2026 at 13:08 by Domingo Mery
