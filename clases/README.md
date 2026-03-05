@@ -4,16 +4,17 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 10-Mar-2026:
-* 0.1 **PRESENTACIÓN DEL CURSO**
-* 0.1 &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp;  PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
-* 0.1 **Bibliografia**
-* 0.1 &nbsp; &nbsp; &nbsp;  Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp;  Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
-* 0.1 &nbsp; &nbsp; &nbsp;  Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
-* 0.1 &nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing (Mery, 2015) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2015_ComputerVisionXrays_DMery.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Book]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
+* 0.0 **PRESENTACIÓN DEL CURSO**
+* 0.1 &nbsp; &nbsp; &nbsp;  **Programa**
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
+* 0.2 &nbsp; &nbsp; &nbsp;  **Bibliografia**
+* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
+* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
+* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
+* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
+* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing (Mery, 2015) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2015_ComputerVisionXrays_DMery.pdf)
+* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Book]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
 
 ### Clase 02 Ju. 12-Mar-2026:
 * 1.0 **INTRODUCCIÓN**
@@ -47,6 +48,7 @@
 ### Clase 04 Ju. 19-Mar-2026:
 * 2.0 **EXTRACCIÓN DE CARACTERISTICAS**
 * 2.1 &nbsp; &nbsp; &nbsp;  **Introducción**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Qué es la extracción de características? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Introduccion.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  **Segmentación de imágenes**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Segmentación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Segmentation.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Region growing [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_RegionGrowing.pptx)
@@ -195,10 +197,10 @@
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 
 ### Clase 17 Ju. 07-May-2026:
-* 5.0 **EVALUACIÓN DE DESEMPENO**
+* 5.0 **EVALUACIÓN DE DESEMPEÑO**
 * 5.1 &nbsp; &nbsp; &nbsp;  **Introducción**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Como se evalua el desempeno de un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
-* 5.2 &nbsp; &nbsp; &nbsp;  **Metricas de desempeno**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Como se evalua el desempeño de un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
+* 5.2 &nbsp; &nbsp; &nbsp;  **Metricas de desempeño**
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 
@@ -216,4 +218,4 @@
 ---
 
 
-Updated on 04-Mar-2026 at 14:58 by Domingo Mery
+Updated on 05-Mar-2026 at 12:40 by Domingo Mery

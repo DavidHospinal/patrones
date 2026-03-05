@@ -2,6 +2,7 @@
 # Capitulo 02: Extraccion de Caracteristicas
 ### 2.1 Introduccion:
 * > **Introducción** 
+* >> Qué es la extracción de características? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Introduccion.pptx)
 ### 2.2 Segmentacion de imágenes:
 * > **Segmentación de imágenes** 
 * >> PPT: Segmentación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Segmentation.pptx)
@@ -66,4 +67,4 @@
 ---
 
 
-Updated on 04-Mar-2026 at 14:58 by Domingo Mery
+Updated on 05-Mar-2026 at 12:40 by Domingo Mery
