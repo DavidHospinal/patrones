@@ -34,14 +34,14 @@
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de Apoyo: Paper - Reconocimiento de patrones estadístico [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 
 ### Clase 03 Ma. 17-Mar-2026:
-* 1.1 **E01: Ejericio en Clases 01** [[Colab]]()
-* 1.0 **INTRODUCCIÓN (cont.)**
+* 1.1 **<<E01: EJERCICIO EN CLASES 01>>** [[Colab]]()
 
 ### Clase 04 Ju. 19-Mar-2026:
+* 1.0 **INTRODUCCIÓN (cont.)**
 * 1.2 &nbsp; &nbsp; &nbsp;  **Qué es procesamiento y analisis de imágenes?**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Introducción al Procesamiento de Imágenes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_ProcesamientoImagenes.pptx)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo segmentación de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
-* 1.2 &nbsp; &nbsp; &nbsp;  Python: Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
 * 1.2 &nbsp; &nbsp; &nbsp;  **Procesamiento básico de imagenes**
 * 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Transformaciones geométricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_GeoTransformaciones.pptx)
 * 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de transformación geometrica [[Colab]](https://colab.research.google.com/drive/1Z5ok0Cr7ynp_jCZ-DM8S-6u8DtOZfBOI)
@@ -54,7 +54,7 @@
 * 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos con máscaras (convolución con kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 
 ### Clase 05 Ma. 24-Mar-2026:
-* 1.3 **E02: Ejericio en Clases 02** [[Colab]]()
+* 1.3 **E02: EJERCICIO EN CLASES 02** [[Colab]]()
 
 ### Clase 06 Ju. 26-Mar-2026:
 * 2.0 **EXTRACCIÓN DE CARACTERISTICAS**
@@ -73,7 +73,7 @@
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 
 ### Clase 07 Ma. 31-Mar-2026:
-* 2.2 **E03: Ejericio en Clases 03** [[Colab]]()
+* 2.2 **E03: EJERCICIO EN CLASES 03** [[Colab]]()
 
 ### Clase 08 Ma. 07-Apr-2026:
 * 2.3 &nbsp; &nbsp; &nbsp;  **Características geométricas**
@@ -112,7 +112,7 @@
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
 
 ### Clase 10 Ma. 14-Apr-2026:
-* 2.5 **E04: Ejericio en Clases 04** [[Colab]]()
+* 2.5 **E04: EJERCICIO EN CLASES 04** [[Colab]]()
 
 ### Clase 11 Ju. 16-Apr-2026:
 * 2.5 &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad (cont.)**
@@ -132,7 +132,7 @@
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 
 ### Clase 12 Ma. 21-Apr-2026:
-* 2.5 **E05: Ejericio en Clases 05** [[Colab]]()
+* 2.5 **E05: EJERCICIO EN CLASES 05** [[Colab]]()
 
 ### Clase 13 Ju. 23-Apr-2026:
 * 3.0 **SELECCIÓN Y TRANSFORMACIÓN DE CARACTERISTICAS**
@@ -150,7 +150,7 @@
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Branch and bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 
 ### Clase 14 Ma. 28-Apr-2026:
-* 3.2 **E06: Ejericio en Clases 06** [[Colab]]()
+* 3.2 **E06: EJERCICIO EN CLASES 06** [[Colab]]()
 
 ### Clase 15 Ju. 30-Apr-2026:
 * 3.3 &nbsp; &nbsp; &nbsp;  **Algoritmos de transformación de características**
@@ -167,15 +167,15 @@
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 
 ### Clase 16 Ma. 05-May-2026:
-* 3.2 **E07: Ejericio en Clases 07** [[Colab]]()
+* 3.2 **E07: EJERCICIO EN CLASES 07** [[Colab]]()
 
 ### Clase 17 Ju. 07-May-2026:
 * 4.0 **CLASIFICACIÓN**
 * 4.1 &nbsp; &nbsp; &nbsp;  **Introducción**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Que es un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp;  **Clasificadores basicos**
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador KNN - vecino más cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador DMIN - distancia mínima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1u_Xl7JYxhBxtYci8Kz8iyQf8X3F7CmLl/view?usp=sharing)
@@ -186,7 +186,7 @@
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 
 ### Clase 18 Ma. 12-May-2026:
-* 3.2 **E08: Ejericio en Clases 08** [[Colab]]()
+* 3.2 **E08: EJERCICIO EN CLASES 08** [[Colab]]()
 
 ### Clase 19 Ju. 14-May-2026:
 * 4.3 &nbsp; &nbsp; &nbsp;  **Redes neuronales**
@@ -198,7 +198,7 @@
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
 ### Clase 20 Ma. 26-May-2026:
-* 3.2 **E09: Ejericio en Clases 09** [[Colab]]()
+* 3.2 **E09: EJERCICIO EN CLASES 09** [[Colab]]()
 
 ### Clase 21 Ju. 28-May-2026:
 * 4.4 &nbsp; &nbsp; &nbsp;  **Support vector machines**
@@ -210,7 +210,7 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 
 ### Clase 22 Ma. 02-Jun-2026:
-* 3.2 **E10: Ejericio en Clases 10** [[Colab]]()
+* 3.2 **E10: EJERCICIO EN CLASES 10** [[Colab]]()
 
 ### Clase 23 Ju. 04-Jun-2026:
 * 5.0 **EVALUACIÓN DE DESEMPEÑO**
@@ -222,7 +222,7 @@
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 
 ### Clase 24 Ma. 09-Jun-2026:
-* 3.2 **E11: Ejericio en Clases 11** [[Colab]]()
+* 3.2 **E11: EJERCICIO EN CLASES 11** [[Colab]]()
 
 ### Clase 25 Ju. 11-Jun-2026:
 * 5.3 &nbsp; &nbsp; &nbsp;  **Estimación de metricas**
@@ -234,7 +234,7 @@
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
 
 ### Clase 26 Ma. 16-Jun-2026:
-* 3.2 **E12: Ejericio en Clases 12** [[Colab]]()
+* 3.2 **E12: EJERCICIO EN CLASES 12** [[Colab]]()
 
 ### Clase 27 Ju. 18-Jun-2026:
 * 4.0 **CLASIFICACIÓN (cont.)**
@@ -248,7 +248,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 
 ### Clase 28 Ma. 23-Jun-2026:
-* 3.2 **E13: Ejericio en Clases 13** [[Colab]]()
+* 3.2 **E13: EJERCICIO EN CLASES 13** [[Colab]]()
 
 ### Clase 29 Ju. 25-Jun-2026:
 * 4.6 &nbsp; &nbsp; &nbsp;  **Bag of words**
@@ -258,4 +258,4 @@
 ---
 
 
-Updated on 06-Mar-2026 at 13:02 by Domingo Mery
+Updated on 06-Mar-2026 at 13:48 by Domingo Mery

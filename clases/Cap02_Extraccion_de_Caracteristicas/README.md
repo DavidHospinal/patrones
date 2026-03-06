@@ -15,7 +15,7 @@
 * >> Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * >> PPT: Morfología [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Morfologia.pptx)
 * >> Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
-* **E03: Ejericio en Clases 03** [[Colab]]()
+* **E03: EJERCICIO EN CLASES 03** [[Colab]]()
 ### 2.3 Caracteristicas geometricas:
 * > **Características geométricas** 
 * >> PPT: Características geométricas básicas y momentos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
@@ -51,7 +51,7 @@
 * >> Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
 * >> Material de apoyo: Implementación de HoG en OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * >> Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
-* **E04: Ejericio en Clases 04** [[Colab]]()
+* **E04: EJERCICIO EN CLASES 04** [[Colab]]()
 * > **Caracteristicas de intensidad (cont.)** 
 * >> PPT: Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * >> Material de Apoyo: Paper - Local Binary Patterns (LBP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
@@ -67,8 +67,8 @@
 * >> Material de apoyo: Capítulo características de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * >> Material de apoyo: Paper - Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * >> Python: Ejemplo de intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
-* **E05: Ejericio en Clases 05** [[Colab]]()
+* **E05: EJERCICIO EN CLASES 05** [[Colab]]()
 ---
 
 
-Updated on 06-Mar-2026 at 13:02 by Domingo Mery
+Updated on 06-Mar-2026 at 13:48 by Domingo Mery
