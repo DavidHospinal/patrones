@@ -14,6 +14,14 @@
 * >> Discriminante Fihser y matrices de covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * >> Discriminante Fihser y matrices de covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * >> Branch and bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
+* **E06: Ejericio en Clases 06** [[Colab]]()
+* **E07: Ejericio en Clases 07** [[Colab]]()
+* **E08: Ejericio en Clases 08** [[Colab]]()
+* **E09: Ejericio en Clases 09** [[Colab]]()
+* **E10: Ejericio en Clases 10** [[Colab]]()
+* **E11: Ejericio en Clases 11** [[Colab]]()
+* **E12: Ejericio en Clases 12** [[Colab]]()
+* **E13: Ejericio en Clases 13** [[Colab]]()
 ### 3.3 Algoritmos de transformacion:
 * > **Algoritmos de transformación de características** 
 * >> Selección versus transformación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
@@ -31,4 +39,4 @@
 ---
 
 
-Updated on 05-Mar-2026 at 12:40 by Domingo Mery
+Updated on 06-Mar-2026 at 13:02 by Domingo Mery

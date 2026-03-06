@@ -2,7 +2,7 @@
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
 * > **Programa** 
-* >> Programa del curso Reconocimiento de Patrones [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
+* >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * >> PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
 ### 0.2 Bibliografía:
 * > **Bibliografia** 
@@ -15,4 +15,4 @@
 ---
 
 
-Updated on 05-Mar-2026 at 12:40 by Domingo Mery
+Updated on 06-Mar-2026 at 13:02 by Domingo Mery
