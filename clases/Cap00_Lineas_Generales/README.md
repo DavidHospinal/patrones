@@ -4,8 +4,9 @@
 * > **Programa** 
 * >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * >> PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
+* >> Clasificador DMIN - distancia mínima [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Lineamientos_uso_IA_ver_2.pdf)
 ### 0.2 Bibliografía:
-* > **Bibliografia** 
+* > **Bibliografía** 
 * >> Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
 * >> Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * >> Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
@@ -15,4 +16,4 @@
 ---
 
 
-Updated on 06-Mar-2026 at 14:56 by Domingo Mery
+Updated on 10-Mar-2026 at 09:54 by Domingo Mery
