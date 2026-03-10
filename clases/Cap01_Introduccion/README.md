@@ -4,7 +4,7 @@
 * > **Qué es reconocimiento de patrones?** 
 * >> PPT: Ejemplo introductorio [[PPT]](PAT01_EjemploIntroductorio.pptx)
 * >> Python: Ejemplo introductorio [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
-* >> Visualización de segementación [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_showSegmentation.m)
+* >> Matlab: Visualización de segementación [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_showSegmentation.m)
 * >> PPT: Ejercicio visión humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * >> PPT: Ejemplo de Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 * > **Qué es reconocimiento de patrones?** 
@@ -21,4 +21,4 @@
 ---
 
 
-Updated on 10-Mar-2026 at 09:54 by Domingo Mery
+Updated on 10-Mar-2026 at 09:55 by Domingo Mery
