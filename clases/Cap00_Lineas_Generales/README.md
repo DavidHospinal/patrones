@@ -3,6 +3,7 @@
 ### 0.1 Presentacion del curso:
 * > **Programa** 
 * >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
+* >> Calendario [[Calendario]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/calendario.md)
 * >> PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
 * >> Clasificador DMIN - distancia mínima [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Lineamientos_uso_IA_ver_2.pdf)
 ### 0.2 Bibliografía:
@@ -16,4 +17,4 @@
 ---
 
 
-Updated on 10-Mar-2026 at 09:55 by Domingo Mery
+Updated on 10-Mar-2026 at 14:44 by Domingo Mery

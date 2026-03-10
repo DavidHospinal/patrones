@@ -6,9 +6,10 @@
 ### Clase 01 Ma. 10-Mar-2026:
 * 1.0 &nbsp; **INTRODUCCIÓN**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Qué es reconocimiento de patrones?**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejemplo introductorio [[PPT]](PAT01_EjemploIntroductorio.pptx)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejemplo introductorio [[PPT]](PAT00_EjemploIntroductorio.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo introductorio [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matlab: Visualización de segementación [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_showSegmentation.m)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Archivos Epstein [[Link]](http://jmail.world)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejercicio visión humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejemplo de Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 
@@ -16,6 +17,7 @@
 * 0.0 &nbsp; **PRESENTACIÓN DEL CURSO**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Programa**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Calendario [[Calendario]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/calendario.md)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador DMIN - distancia mínima [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Lineamientos_uso_IA_ver_2.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Bibliografía**
@@ -260,4 +262,4 @@
 ---
 
 
-Updated on 10-Mar-2026 at 09:55 by Domingo Mery
+Updated on 10-Mar-2026 at 14:44 by Domingo Mery

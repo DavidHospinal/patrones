@@ -2,9 +2,10 @@
 # Capitulo 01: Introduccion
 ### 1.1 Que es reconocimiento de patrones?:
 * > **Qué es reconocimiento de patrones?** 
-* >> PPT: Ejemplo introductorio [[PPT]](PAT01_EjemploIntroductorio.pptx)
+* >> PPT: Ejemplo introductorio [[PPT]](PAT00_EjemploIntroductorio.pptx)
 * >> Python: Ejemplo introductorio [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * >> Matlab: Visualización de segementación [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_showSegmentation.m)
+* >> Archivos Epstein [[Link]](http://jmail.world)
 * >> PPT: Ejercicio visión humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * >> PPT: Ejemplo de Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 * > **Qué es reconocimiento de patrones?** 
@@ -21,4 +22,4 @@
 ---
 
 
-Updated on 10-Mar-2026 at 09:55 by Domingo Mery
+Updated on 10-Mar-2026 at 14:44 by Domingo Mery
