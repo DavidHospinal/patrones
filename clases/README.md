@@ -202,6 +202,9 @@
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
 ### Clase 20 Ma. 26-May-2026:
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Ayudantía**
+
+### Clase 21 Ju. 28-May-2026:
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Support vector machines**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Introducción a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
@@ -209,9 +212,6 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
-
-### Clase 21 Ju. 28-May-2026:
-* 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Ayudantía**
 
 ### Clase 22 Ma. 02-Jun-2026:
 * 3.2 &nbsp; **E10: EJERCICIO EN CLASES 09** [[Colab]]()
@@ -262,4 +262,4 @@
 ---
 
 
-Updated on 11-Mar-2026 at 09:40 by Domingo Mery
+Updated on 11-Mar-2026 at 09:42 by Domingo Mery
