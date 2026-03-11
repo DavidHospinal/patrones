@@ -17,11 +17,10 @@
 * **E06: EJERCICIO EN CLASES 06** [[Colab]]()
 * **E07: EJERCICIO EN CLASES 07** [[Colab]]()
 * **E08: EJERCICIO EN CLASES 08** [[Colab]]()
-* **E09: EJERCICIO EN CLASES 09** [[Colab]]()
-* **E10: EJERCICIO EN CLASES 10** [[Colab]]()
-* **E11: EJERCICIO EN CLASES 11** [[Colab]]()
-* **E12: EJERCICIO EN CLASES 12** [[Colab]]()
-* **E13: EJERCICIO EN CLASES 13** [[Colab]]()
+* **E10: EJERCICIO EN CLASES 09** [[Colab]]()
+* **E11: EJERCICIO EN CLASES 10** [[Colab]]()
+* **E12: EJERCICIO EN CLASES 11** [[Colab]]()
+* **E13: EJERCICIO EN CLASES 12** [[Colab]]()
 ### 3.3 Algoritmos de transformacion:
 * > **Algoritmos de transformación de características** 
 * >> Selección versus transformación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
@@ -39,4 +38,4 @@
 ---
 
 
-Updated on 10-Mar-2026 at 14:44 by Domingo Mery
+Updated on 11-Mar-2026 at 09:40 by Domingo Mery

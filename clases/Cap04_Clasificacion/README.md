@@ -31,6 +31,7 @@
 * >> Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * >> Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * >> Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
+* > **Ayudantía** 
 ### 4.5 Deep Learning:
 * > **Deep learning** 
 * >> Deep learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
@@ -48,4 +49,4 @@
 ---
 
 
-Updated on 10-Mar-2026 at 14:44 by Domingo Mery
+Updated on 11-Mar-2026 at 09:40 by Domingo Mery

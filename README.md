@@ -202,9 +202,6 @@
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
 ### Clase 20 Ma. 26-May-2026:
-* 3.2 &nbsp; **E09: EJERCICIO EN CLASES 09** [[Colab]]()
-
-### Clase 21 Ju. 28-May-2026:
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Support vector machines**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Introducción a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
@@ -213,8 +210,11 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 
+### Clase 21 Ju. 28-May-2026:
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Ayudantía**
+
 ### Clase 22 Ma. 02-Jun-2026:
-* 3.2 &nbsp; **E10: EJERCICIO EN CLASES 10** [[Colab]]()
+* 3.2 &nbsp; **E10: EJERCICIO EN CLASES 09** [[Colab]]()
 
 ### Clase 23 Ju. 04-Jun-2026:
 * 5.0 &nbsp; **EVALUACIÓN DE DESEMPEÑO**
@@ -226,7 +226,7 @@
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 
 ### Clase 24 Ma. 09-Jun-2026:
-* 3.2 &nbsp; **E11: EJERCICIO EN CLASES 11** [[Colab]]()
+* 3.2 &nbsp; **E11: EJERCICIO EN CLASES 10** [[Colab]]()
 
 ### Clase 25 Ju. 11-Jun-2026:
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Estimación de metricas**
@@ -238,7 +238,7 @@
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
 
 ### Clase 26 Ma. 16-Jun-2026:
-* 3.2 &nbsp; **E12: EJERCICIO EN CLASES 12** [[Colab]]()
+* 3.2 &nbsp; **E12: EJERCICIO EN CLASES 11** [[Colab]]()
 
 ### Clase 27 Ju. 18-Jun-2026:
 * 4.0 &nbsp; **CLASIFICACIÓN (cont.)**
@@ -252,7 +252,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 
 ### Clase 28 Ma. 23-Jun-2026:
-* 3.2 &nbsp; **E13: EJERCICIO EN CLASES 13** [[Colab]]()
+* 3.2 &nbsp; **E13: EJERCICIO EN CLASES 12** [[Colab]]()
 
 ### Clase 29 Ju. 25-Jun-2026:
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Bag of words**
@@ -262,4 +262,4 @@
 ---
 
 
-Updated on 10-Mar-2026 at 14:44 by Domingo Mery
+Updated on 11-Mar-2026 at 09:40 by Domingo Mery
