@@ -5,7 +5,7 @@
 * >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * >> Calendario [[Calendario]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/calendario.md)
 * >> PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
-* >> Clasificador DMIN - distancia mínima [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Lineamientos_uso_IA_ver_2.pdf)
+* >> Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Lineamientos_uso_IA_ver_2.pdf)
 ### 0.2 Bibliografía:
 * > **Bibliografía** 
 * >> Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
@@ -17,4 +17,4 @@
 ---
 
 
-Updated on 11-Mar-2026 at 09:42 by Domingo Mery
+Updated on 11-Mar-2026 at 18:06 by Domingo Mery
