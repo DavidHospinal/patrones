@@ -6,8 +6,8 @@
 * >> Python: Ejemplo introductorio [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * >> Matlab: Visualización de segementación [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_showSegmentation.m)
 * >> Archivos Epstein [[Link]](http://jmail.world)
-* >> PPT: Ejercicio visión humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
-* >> PPT: Ejemplo de Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
+* >> [+] PPT: Ejercicio visión humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
+* >> [+] PPT: Ejemplo de Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 * > **Qué es reconocimiento de patrones?** 
 * >> PPT: Ejemplo práctico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
 * >> PPT: Formulación metodologica de Reconocimiento de Patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
@@ -22,4 +22,4 @@
 ---
 
 
-Updated on 11-Mar-2026 at 18:06 by Domingo Mery
+Updated on 11-Mar-2026 at 18:53 by Domingo Mery
