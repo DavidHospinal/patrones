@@ -39,6 +39,7 @@
 
 ### Clase 03 Ma. 17-Mar-2026:
 * 1.1 &nbsp; **E01: EJERCICIO EN CLASES 01** [[Colab]]()
+* 1.1 &nbsp; Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/python/ConsideracionesE01.txt)
 
 ### Clase 04 Ju. 19-Mar-2026:
 * 1.0 &nbsp; **INTRODUCCIÓN (cont.)**
@@ -262,4 +263,4 @@
 ---
 
 
-Updated on 12-Mar-2026 at 09:33 by Domingo Mery
+Updated on 12-Mar-2026 at 10:49 by Domingo Mery
