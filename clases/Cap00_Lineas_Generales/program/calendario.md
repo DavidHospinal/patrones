@@ -1,7 +1,6 @@
 # martes, 17 marzo
 Hora de entrega 21:00 ,E01: Trabajo en Clases 01 
 
-
 # martes, 24 marzo
 Hora de entrega 21:00 ,E02: Trabajo en Clases 02 
 
