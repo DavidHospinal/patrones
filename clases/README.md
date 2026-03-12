@@ -18,7 +18,7 @@
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Programa**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Calendario [[Calendario]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/calendario.md)
-* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Presentación del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_PresentacionCurso.pptx)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Lineamientos_uso_IA_ver_2.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Bibliografía**
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
@@ -263,4 +263,4 @@
 ---
 
 
-Updated on 12-Mar-2026 at 10:49 by Domingo Mery
+Updated on 12-Mar-2026 at 12:13 by Domingo Mery
