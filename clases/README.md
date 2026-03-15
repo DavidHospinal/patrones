@@ -38,8 +38,9 @@
 * 1.1 &nbsp; [+] >> Material de Apoyo: Paper - Reconocimiento de patrones estadístico [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 
 ### Clase 03 Ma. 17-Mar-2026:
-* 1.1 &nbsp; **E01: EJERCICIO EN CLASES 01** [[Colab]]()
-* 1.1 &nbsp; Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/python/ConsideracionesE01.txt)
+* 1.1 &nbsp; **E01: EJERCICIO EN CLASES 01** [[Colab]](https://drive.google.com/file/d/1tIbLdos-IZg3lGl16QcSxozTkRB8wFTp/view?usp=drive_link)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/python/ConsideracionesE01.txt)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E01 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_E01_Ochos.pptx)
 
 ### Clase 04 Ju. 19-Mar-2026:
 * 1.0 &nbsp; **INTRODUCCIÓN (cont.)**
@@ -263,4 +264,4 @@
 ---
 
 
-Updated on 12-Mar-2026 at 12:29 by Domingo Mery
+Updated on 15-Mar-2026 at 16:36 by Domingo Mery
