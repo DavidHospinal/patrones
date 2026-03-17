@@ -31,7 +31,6 @@
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Qué es reconocimiento de patrones?**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejemplo práctico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Formulación metodólogica de Reconocimiento de Patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Esquema básico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Metodologia.pptx)
 * 1.1 &nbsp; [+] >> PPT: Ejemplo de extracción de características para separar las letras J y Q [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_JQ.pptx)
 * 1.1 &nbsp; [+] >> Python: Ejemplo separación de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
@@ -44,23 +43,17 @@
 
 ### Clase 04 Ju. 19-Mar-2026:
 * 1.0 &nbsp; **INTRODUCCIÓN (cont.)**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Qué es procesamiento y analisis de imágenes?**
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Procesamiento de imágenes**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Introducción al Procesamiento de Imágenes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_ProcesamientoImagenes.pptx)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo segmentación de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Procesamiento básico de imagenes**
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Transformaciones geométricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_GeoTransformaciones.pptx)
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de transformación geometrica [[Colab]](https://colab.research.google.com/drive/1Z5ok0Cr7ynp_jCZ-DM8S-6u8DtOZfBOI)
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Histogramas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Histogramas.pptx)
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matlab: Visualización de histograma [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_HistogramVisualization.m)
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ecualización de histograma [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_HistogramaEcualizacion.pptx)
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de ecualización de histograma [[Colab]](https://colab.research.google.com/drive/1yYoH_UcDlqCXD-EMAI6moU9m7G7dScJ0)
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Operaciones aritméticas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Aritmetica.pptx)
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Operaciones con máscaras (convolución con kernels) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Mascaras.pptx)
-* 1.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos con máscaras (convolución con kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de transformación geometrica [[Colab]](https://colab.research.google.com/drive/1Z5ok0Cr7ynp_jCZ-DM8S-6u8DtOZfBOI)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de ecualización de histograma [[Colab]](https://colab.research.google.com/drive/1yYoH_UcDlqCXD-EMAI6moU9m7G7dScJ0)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos con máscaras (convolución con kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matlab: Visualización de histograma [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_HistogramVisualization.m)
 
 ### Clase 05 Ma. 24-Mar-2026:
-* 1.3 &nbsp; **E02: EJERCICIO EN CLASES 02** [[Colab]]()
+* 1.2 &nbsp; **E02: EJERCICIO EN CLASES 02** [[Colab]]()
 
 ### Clase 06 Ju. 26-Mar-2026:
 * 2.0 &nbsp; **EXTRACCIÓN DE CARACTERISTICAS**
@@ -264,4 +257,4 @@
 ---
 
 
-Updated on 15-Mar-2026 at 16:36 by Domingo Mery
+Updated on 17-Mar-2026 at 10:23 by Domingo Mery
