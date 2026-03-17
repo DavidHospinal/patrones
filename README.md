@@ -6,7 +6,7 @@
 ### Clase 01 Ma. 10-Mar-2026:
 * 1.0 &nbsp; **INTRODUCCIÓN**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Qué es reconocimiento de patrones?**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejemplo introductorio [[PPT]](PAT00_EjemploIntroductorio.pptx)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Ejemplo introductorio [[PPT]](PAT01_EjemploIntroductorio.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo introductorio [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matlab: Visualización de segementación [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_showSegmentation.m)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Archivos Epstein [[Link]](http://jmail.world)
@@ -257,4 +257,4 @@
 ---
 
 
-Updated on 17-Mar-2026 at 10:23 by Domingo Mery
+Updated on 17-Mar-2026 at 16:56 by Domingo Mery
