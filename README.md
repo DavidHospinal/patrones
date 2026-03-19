@@ -54,6 +54,7 @@
 
 ### Clase 05 Ma. 24-Mar-2026:
 * 1.2 &nbsp; **E02: EJERCICIO EN CLASES 02** [[Colab]]()
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/python/ConsideracionesE02.txt)
 
 ### Clase 06 Ju. 26-Mar-2026:
 * 2.0 &nbsp; **EXTRACCIÓN DE CARACTERISTICAS**
@@ -257,4 +258,4 @@
 ---
 
 
-Updated on 17-Mar-2026 at 16:56 by Domingo Mery
+Updated on 19-Mar-2026 at 09:44 by Domingo Mery
