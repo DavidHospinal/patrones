@@ -2,7 +2,7 @@ Consideraciones preliminares para el Ejercicio 02
 
 En este ejercicio se implementarán distintos algoritmos de procesamiento de imagenes.
 
-La imagen a procesar (que es el conjunto de entrenamiento) se encuentra aquí
+La imagen a procesar se encuentra aquí
 
 https://www.dropbox.com/scl/fi/1i447glez9khs7eu0cym7/littlesister.png?rlkey=q1uq2b033bbm82aaqnghu5dxf
 
