@@ -55,7 +55,7 @@
 ### Clase 05 Ma. 24-Mar-2026:
 * 1.2 &nbsp; **E02: EJERCICIO EN CLASES 02** [[Colab]](https://drive.google.com/file/d/1I0r4PRsB91r2YFq9rzR01VPO4XBMUCro/view?usp=sharing)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/python/ConsideracionesE02.txt)
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E01 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
   
 ### Clase 06 Ju. 26-Mar-2026:
 * 2.0 &nbsp; **EXTRACCIÓN DE CARACTERISTICAS**
