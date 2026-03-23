@@ -18,9 +18,10 @@
 * **E01: EJERCICIO EN CLASES 01** [[Colab]](https://drive.google.com/file/d/1tIbLdos-IZg3lGl16QcSxozTkRB8wFTp/view?usp=drive_link)
 * > Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/python/ConsideracionesE01.txt)
 * > Explicación del ejercicio E01 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_E01_Ochos.pptx)
+* > Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
 ### 1.2 Que es el procesamiento y analisis de imagenes?:
 ### 1.3 Procesamiento basico de imágenes:
 ---
 
 
-Updated on 19-Mar-2026 at 09:44 by Domingo Mery
+Updated on 23-Mar-2026 at 09:45 by Domingo Mery
