@@ -2,7 +2,6 @@
 # Capitulo 02: Extraccion de Caracteristicas
 ### 2.1 Introduccion:
 * > **Introducción** 
-* >> Qué es la extracción de características? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Introduccion.pptx)
 ### 2.2 Segmentacion de imágenes:
 * > **Segmentación de imágenes** 
 * >> PPT: Segmentación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Segmentation.pptx)
@@ -18,16 +17,13 @@
 * **E03: EJERCICIO EN CLASES 03** [[Colab]]()
 ### 2.3 Caracteristicas geometricas:
 * > **Características geométricas** 
-* >> PPT: Características geométricas básicas y momentos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
-* >> Apuntes: Características geométricas básicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
+* >> PPT: Características geométricas (básicas, momentos, Fourier) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CaracteristicasGeometricas.pptx)
 * >> Pyhton: Ejemplo sobre características geométricas y momentos [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* >> Python: Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
 * >> Material de apoyo: Capítulo - Image representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
 * >> Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * >> Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
-* >> PPT: Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
-* >> Material de apoyo: Ejemplo de los descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * >> Material de apoyo: Paper - Descriptores de Fourier [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
-* >> Python: Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
 ### 2.4 Modelos de color:
 * > **Modelos de color** 
 * >> PPT: Introducción al procesamiento de imágenes a color [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntroduccionColor.pptx)
@@ -71,4 +67,4 @@
 ---
 
 
-Updated on 23-Mar-2026 at 09:45 by Domingo Mery
+Updated on 24-Mar-2026 at 16:49 by Domingo Mery
