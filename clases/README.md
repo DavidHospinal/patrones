@@ -40,6 +40,7 @@
 * 1.1 &nbsp; **E01: EJERCICIO EN CLASES 01** [[Colab]](https://drive.google.com/file/d/1tIbLdos-IZg3lGl16QcSxozTkRB8wFTp/view?usp=drive_link)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/python/ConsideracionesE01.txt)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E01 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_E01_Ochos.pptx)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E01 [[Colab]](https://drive.google.com/file/d/1ZDxYzAR4NuKI9EzRRxus9-Ap7S77JEw1/view?usp=sharing)
 
 ### Clase 04 Ju. 19-Mar-2026:
 * 1.0 &nbsp; **INTRODUCCIÓN (cont.)**
@@ -56,6 +57,7 @@
 * 1.2 &nbsp; **E02: EJERCICIO EN CLASES 02** [[Colab]](https://drive.google.com/file/d/1I0r4PRsB91r2YFq9rzR01VPO4XBMUCro/view?usp=sharing)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/python/ConsideracionesE02.txt)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E02 [[Colab]](https://drive.google.com/file/d/1Oq7IxHmnIl1tEgVL6V0edl3qVRft0Hjj/view?usp=sharing)
 
 ### Clase 06 Ju. 26-Mar-2026:
 * 2.0 &nbsp; **EXTRACCIÓN DE CARACTERISTICAS**
@@ -255,4 +257,4 @@
 ---
 
 
-Updated on 26-Mar-2026 at 10:13 by Domingo Mery
+Updated on 26-Mar-2026 at 10:15 by Domingo Mery
